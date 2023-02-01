@@ -1,0 +1,22 @@
+{
+  "PartidosPoliticos": [
+    {
+      "UserId": "0",
+      "Nombre": "PartidoPopular",
+      "Porcentaje": "60",
+      "MaximoPorcentaje": "100"
+    },
+    {
+      "UserId": "1",
+      "Nombre": "PartidoSocial",
+      "Porcentaje": "30",
+      "MaximoPorcentaje": "100"
+    },
+    {
+      "UserId": "2",
+      "Nombre": "Otros",
+      "Porcentaje": "10",
+      "MaximoPorcentaje": "100"
+    }
+  ]
+}
